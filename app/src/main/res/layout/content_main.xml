@@ -24,6 +24,7 @@
         android:id="@+id/rotated_button"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="I AM ROTATED"/>
+        android:text="I AM ROTATED"
+        android:rotation="180"/>
 
 </android.widget.LinearLayout>
